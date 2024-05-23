@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerRelationships>
+    <customerRelationship>
+        <globalId>string</globalId>
+        <relatedCustonmer>string</relatedCustonmer>
+        <customerCountry>
+            <code>string</code>
+            <description>string</description>
+        </customerCountry>
+        <name>
+            <nameAR>
+                <isPreferred>true</isPreferred>
+                <firstName>string</firstName>
+                <secondName>string</secondName>
+                <thirdName>string</thirdName>
+                <familyName>string</familyName>
+                <bigName>stringstri</bigName>
+            </nameAR>
+            <nameEN>
+                <isPreferred>true</isPreferred>
+                <firstName>string</firstName>
+                <secondName>string</secondName>
+                <thirdName>string</thirdName>
+                <familyName>string</familyName>
+                <bigName>stringstri</bigName>
+            </nameEN>
+        </name>
+        <segment>
+            <code>string</code>
+            <description>string</description>
+        </segment>
+        <role>
+            <code>string</code>
+            <description>string</description>
+        </role>
+        <relationshipManager>
+            <code>string</code>
+            <description>string</description>
+        </relationshipManager>
+    </customerRelationship>
+</CustomerRelationships>
